@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string-array name="lv_name">
+        <item>胡萝卜</item>
+        <item>山竹</item>
+        <item>西红柿</item>
+        <item>芒果</item>
+        <item>菠萝</item>
+        <item>榴莲</item>
+        <item>西瓜</item>
+        <item>橘子</item>
+        <item>柠檬</item>
+        <item>香肠</item>
+        <item>辣条</item>
+        <item>泡面</item>
+
+
+    </string-array>
+</resources>

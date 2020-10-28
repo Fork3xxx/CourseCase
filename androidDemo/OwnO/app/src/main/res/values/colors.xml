@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="main_tab_item_text_select">#7FC26B</color>
+    <color name="main_tab_item_text_normal">#808288</color>
+    <color name="tab_item_background">#ffffffff</color>
+    <color name="main_color">#43a599</color>
+    <color name="launcher_item_select">#54B0E9</color>
+    <color name="launcher_item_normal">#9B9B9B</color>
+    <color name="white_normal">#ffffffff</color>
+    <color name="split_line">#E7E7E7</color>
+    <color name="menu_left_item_select">#EEEEEE</color>
+    <color name="menu_left_item_text_select">#54B0E9</color>
+
+    <color name="menu_left_item_text_normal">#000000</color>
+
+    <color name="main_title_text_select">#78ffffff</color>
+    <color name="main_title_text_normal">#ffffffff</color>
+
+
+</resources>

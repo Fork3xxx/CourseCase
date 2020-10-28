@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#a9e900"
+        android:layout_marginTop="20dp"
+        android:textSize="25sp"
+        android:text="设置背景颜色"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv0"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:text="@string/testing"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="添加点击事件"
+        android:id="@+id/tv4"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="文字阴影，文字加粗"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:shadowColor="#f90000"
+        android:shadowDx="10"
+        android:shadowDy="10"
+        android:shadowRadius="1"
+        android:id="@+id/tv5"/>
+</LinearLayout>

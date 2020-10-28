@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   >
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Sex"
+    android:layout_marginTop="10dp"/>
+    <RadioGroup
+        android:id="@+id/rg_sex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/rb_male"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A"
+            android:checked="true"/>
+        <RadioButton
+            android:id="@+id/rb_female"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="O"/>
+    </RadioGroup>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose your love"
+        android:layout_marginTop="10dp"/>
+    <CheckBox
+        android:id="@+id/cb_leo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Leo"/>
+    <CheckBox
+        android:id="@+id/cb_mob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mob"/>
+    <CheckBox
+        android:id="@+id/cb_avilio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Avilio"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign"
+        android:onClick="onClick"
+        android:layout_marginTop="10dp"/>
+
+
+</LinearLayout>

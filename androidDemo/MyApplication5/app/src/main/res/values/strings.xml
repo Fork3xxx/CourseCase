@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application5</string>
+    <string-array name="lv_name">
+        <item>sdfsdfsdf</item>
+        <item>sdfsdfsdf</item>
+        <item>sdfsdfsdf</item>
+    </string-array>
+</resources>

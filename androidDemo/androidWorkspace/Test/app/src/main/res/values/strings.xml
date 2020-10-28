@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="testing">这是一个数：%1$d,这是两位数：%2$d,这是三位数：%3$s</string>
+</resources>
